@@ -1,5 +1,14 @@
 # REGRESSION MODEL ON A DATASET
 
+In this sample dataset, the following models were used
+
+1. Linear Regression Model
+2. Multiple Regression Model
+3. RIDGE Regression Model
+4. Decison Tree Regression Model
+5. Support Vector Machine Model
+6. Random Forest Regression Model
+
 ## SHAPIRO-WILK TEST RESULTS
 Shapiro-Wilk Test for Normality: p-value = 0.6531
 
